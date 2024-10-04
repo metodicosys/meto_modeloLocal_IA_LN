@@ -1,4 +1,4 @@
-1. Es mi primer modelo con un modelo preentrenado llama3
+1. Es mi primer modelo con LN
 2. Carga un documento pdf desde tu local
 3. El contenido del documento pasa a un modelo preentrenado (llama3)
 4. Llama3 debe estar instalado en tu local
